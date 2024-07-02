@@ -68,6 +68,3 @@ pip install pycryptodomex pillow cryptography
 - Ensure you have valid SMTP credentials to send emails with the encryption key.
 - Use this software responsibly and only on folders/files you have permission to modify.
 
----
-
-Replace `your-username` and `your-repository` in the GitHub clone URL with your actual GitHub username and repository name. Modify the instructions and details according to your specific implementation and requirements. This README provides a structured overview to help users understand and utilize your folder encryption software effectively.
