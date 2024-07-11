@@ -1,6 +1,3 @@
-To create a README file for your Python script on GitHub, you can provide an overview of what the script does, how to set it up, and any dependencies required. Here's a basic template you can use:
-
----
 
 # Folder Encryption Software
 
